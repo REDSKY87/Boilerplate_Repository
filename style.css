@@ -1,0 +1,14 @@
+/* Style Frameworks
+* Using SASS: then use Foundation3
+* Using LESS: then use Twitter Bootstrap4
+* Building UI/UX: then use Materialize CSS
+*/
+
+body{
+  background: black;
+  color: #f4f4f4;
+}
+
+h1{
+  background: rgb(181,137,0);
+}
