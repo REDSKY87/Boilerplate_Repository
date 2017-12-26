@@ -8,8 +8,9 @@ Monitoring: Grafana
 Artificial Intelligence:
 Version Control Repository: GIT
 Transportation/Implementation:  Docker
-Module loader:  Webpack
-JS compiler:  Babel
+Task Runner:  Gulp
+Module loader:  Webpack (JS Bundler)
+JS compiler:  Babel (ES6/ES7 Standard)
 Database:  MongoDB, MySQL, Oracle, Firebase (cloud+GOOGLE)
 Content Management Systems:  Wordpress
 
