@@ -3,12 +3,3 @@
 * Using LESS: then use Twitter Bootstrap4
 * Building UI/UX: then use Materialize CSS
 */
-
-body{
-  background: black;
-  color: #c23628;
-}
-
-h1{
-  background: rgb(181,137,0);
-}
