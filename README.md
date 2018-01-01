@@ -24,20 +24,24 @@ This will give you file watching, browser synchronisation, auto-rebuild, CSS inj
 ```shell
 $ gulp
 ```
-
+Server Operating System: UBUNTU SERVER 16.04 LTS  
 Hosting Server: Digital Ocean or Amazon Web Services  
   cPanel (Creating E-mail Accounts, FTP)  
   Upload a site with FTP[FileZilla]  
   Register a domain name and learn about DNS / Name Servers  
   cloud Storage: Amazon S3  
-Monitoring: Grafana  
+Monitoring: Grafana + Prometheus  
+[GRAFANA INSTALL ON UBUNTU 16.04 LTS](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-grafana-on-ubuntu-16-04)  
+[Prometheus Install on UBUNTU 16.04 LTS](https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-on-ubuntu-16-04)    
 Artificial Intelligence:  
-Version Control Repository: GIT  
+Version Control Repository: GIT/GITHUB  
 Transportation/Implementation:  Docker  
+OpenVPN Service: IPVanish  
 Task Runner:  Gulp  
 Module loader:  Webpack (JS Bundler)  
 JS compiler:  Babel (ES6/ES7 Standard)  
 Database:  MongoDB, MySQL, Oracle, Firebase (cloud+GOOGLE)  
+[mongoDB Digital Ocean Install TUTORIAL ](https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-16-04)  
 Content Management Systems:  Wordpress  
 
 Basic Command Line (folder navigation, file creation)  
@@ -45,7 +49,7 @@ API's/REST(the future)
 
 node.js = JavaScript on the Server side vs. Browser + NPM (node package manager)  
 Learn PYTHON = Important language to learn (then C#, then maybe PHP)  
-  
+
 <!--
 ## Deploy with Gulp
 
