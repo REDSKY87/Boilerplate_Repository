@@ -40,8 +40,6 @@ gulp.task("deploy", ["jekyll-build"], function () {
     return gulp.src("./_site/**/*")
         .pipe(deploy());
 });
-```
--->
 Hosting Server: Digital Ocean or Amazon Web Services
   cPanel (Creating E-mail Accounts, FTP)
   Upload a site with FTP[FileZilla]
@@ -62,3 +60,5 @@ API's/REST(the future)
 
 node.js = JavaScript on the Server side vs. Browser + NPM (node package manager)
 Learn PYTHON = Important language to learn (then C#, then maybe PHP)
+```
+-->
