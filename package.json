@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/REDSKY87/Boilerplate_Repository/issues"
   },
-  "homepage": "https://github.com/REDSKY87/Boilerplate_Repository#readme"
+  "homepage": "https://github.com/REDSKY87/Boilerplate_Repository#readme",
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
 }
