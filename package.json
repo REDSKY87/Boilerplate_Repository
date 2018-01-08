@@ -1,1 +1,19 @@
-
+{
+  "name": "boilerplate_repository",
+  "version": "1.0.0",
+  "description": "Boilerplate Template for New Applications",
+  "main": "main.js",
+  "scripts": {
+    "test": "test_App"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/REDSKY87/Boilerplate_Repository.git"
+  },
+  "author": "Sean L. Reilly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/REDSKY87/Boilerplate_Repository/issues"
+  },
+  "homepage": "https://github.com/REDSKY87/Boilerplate_Repository#readme"
+}
